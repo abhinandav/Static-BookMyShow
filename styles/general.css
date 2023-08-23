@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Roboto ,Arial;
+    /* padding-bottom: 1000vh; */
+}
+
+.All{
+    /* background-color: aqua; */
+   
+    margin-left: 135px;
+    margin-right: 135px;
+}
