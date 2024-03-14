@@ -18,6 +18,9 @@ Run on Live server
   https://abhinandav.github.io/Static-BookMyShow/
 ```
 
+
+Click to watch the video
+
 [![Click to watch the video](https://img.youtube.com/vi/MBnnPvGnQ-U/0.jpg)](https://www.youtube.com/watch?v=MBnnPvGnQ-U)
 
 
