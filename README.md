@@ -12,14 +12,14 @@ Clone the repository to your local machine.
   git clone https://github.com/abhinandav/Static-BookMyShow.git
 ```
 
-Run on Live server
+## Run on Live server
 
 ```bash
   https://abhinandav.github.io/Static-BookMyShow/
 ```
 
 
-Click to watch the video
+## Click to watch the video
 
 [![Click to watch the video](https://img.youtube.com/vi/MBnnPvGnQ-U/0.jpg)](https://www.youtube.com/watch?v=MBnnPvGnQ-U)
 
